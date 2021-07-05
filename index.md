@@ -30,7 +30,7 @@
 - <a href="./3d.html">三维视频处理</a>
 - <a href="./adas.html">基于视觉的ADAS及自动驾驶</a>
 - <a href="./vr.html">虚拟现实及增强现实中的视觉算法研究</a>
-
+- <a href="./vr.html">机器学习和深度学习在计算机视觉中的应用研究</a>
 ### 项目研究
 - 北京交通大学: 多源信息融合障碍物检测系统, 2019-2021
 - 国家自然科学基金“面上”: 深度神经网络辅助的交互式多视点视频技术研究, 2019-2022
@@ -134,8 +134,9 @@ EURASIP J. Image and Video Processing 2011: 12 (2011)
 - 2019年 全国三维数字化创新设计大赛（3D/VR方向）龙鼎奖 指导教师
 ### 社会兼职
 - IEEE Member,电子学会会员，中国图像图形学学会高级会员
+- 中国图像图形学报编委
 - 中国图像图形学学会学术会议与交流工委会秘书长
-- NCIG2018展览主席，ICIG2019出版主席，NCIG2020出版主席
+- NCIG2018展览主席，ICIG2019出版主席，NCIG2020出版主席，PRCV2021出版主席
 - PCM2015 APASIAP2016 ICIG2017 分论坛主席
 - IEEE TCSVT, TMM, TIP,TITS, SPL, JVCIR, PR, PR Letter, TWireless, MTP, KIIS, JEL, EURASIP Journal on Image and Video Processing，	EURASIP JOURNAL ON ADVANCES IN SIGNAL PROCESSING 等期刊审稿人
 - 电子学报，计算机学报，通信学报，软件学报，信号处理，计算机工程与应用，计算机科学与探索等期刊审稿人
