@@ -54,6 +54,7 @@
 - 国家自然科学基金“重大”: 基于对象和MacroCube 的三维视频的编码和理解, 2013-2017
 
 #### 学术成果
+-最新论文请查看DBLP https://dblp.uni-trier.de/pid/04/7485.html
 - **期刊论文**  
 1. Kang Liao, Chunyu Lin*, Yao Zhao, Moncef Gabbouj, OIDC-Net: Omnidirectional Image Distortion Correction via Coarse-to-Fine Region Attention,
 J. Sel. Topics Signal Processing 14(1): 222-231 (2020).
